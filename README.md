@@ -11,7 +11,7 @@ COMPONENTE CURRICULAR: IMD0033 - PROBABILIDADE - 2018.1 - BTI - IMD - UFRN
 
 <b>Participantes:</b>
 
-Airton Everton f. da Cunha
+Airton Everton F. da Cunha
 * ayrtoneverton@gmail.com
 * https://github.com/ayrtoneverton
 

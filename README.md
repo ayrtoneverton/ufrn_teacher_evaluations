@@ -9,7 +9,9 @@
   A liguagem usada foi [Python](https://www.python.org/) versão 3 enquanto que a biblioteca utilizada para a leitura e análise dos dados foi a biblioteca [Pandas](https://pandas.pydata.org/), a [Matplotlib](https://matplotlib.org/) para a plotagem dos gráficos e a [Numpy](http://www.numpy.org/).
 Todos os dados estudados foram obtidos através do site http://dados.ufrn.br/ .
 
-## Link do video no youtube...
+## Link do video no youtube
+
+https://www.youtube.com/watch?v=wLjzuCxXDig
 
 COMPONENTE CURRICULAR: IMD0033 - PROBABILIDADE - 2018.1 - BTI - IMD - UFRN
 
